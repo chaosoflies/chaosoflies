@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://file.garden/ZuWe9aDPsGq-tmYV/BNRR.png" alt="Profile Banner" width="500"> </p>
 <p align="center">
-  TA-DA ! The star of the show has arrived ! </br>
-  <sub>This page is mostly for ponytown reasons .</br>View the collapsable text.</sub>
+  " TA-DA ! The star of the show has arrived ! "</br>
+  <sub>This page is mostly for ponytown reasons , there will soon be a different page for general bio .</br>View the collapsable text.</sub>
 </p> 
 <div align="center">
 <details>
@@ -11,6 +11,8 @@
   <div align="center">
       <p> I'm completely fine with cuds, hiding, booping,</br>covering, and general interactions. However,</br>I don't want you to cover my friends or anything to</br>make them uncomfortable.</p>
       <p> I'm rarely to be seen with IWEC and DNIUF. If it's</br>present in my name, I suggest you respect that. If not,</br>I'll hide you.</p>
+    <p> I prefer to be whispered when starting a conversation</br>with me, please! I might miss your message on local chat.</p>
+    <p> Not the type to roleplay, sorry... I'm awkward.</p>
   </div>
   </details>
   
